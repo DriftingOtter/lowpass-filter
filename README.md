@@ -1,8 +1,8 @@
 ![Graph Example Output](Assets/lowpass_filter.png)
 
-# Low pass Filter
+# Low-pass Filter
 
-> This is a demonstration of a low pas filter in Rust
+> This is a demonstration of a low-pass filter in Rust.
 
 This is purely done for my understanding and is not intended to be 
 used in production.
